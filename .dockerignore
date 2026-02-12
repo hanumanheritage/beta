@@ -1,0 +1,6 @@
+.git
+.gitignore
+analysis_out
+raw_reads
+*.log
+__pycache__
