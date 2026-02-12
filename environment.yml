@@ -1,0 +1,13 @@
+name: prok-wgs
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - fastqc
+  - multiqc
+  - fastp
+  - spades
+  - quast
+  - prodigal
+  - busco
+  - python=3.11
